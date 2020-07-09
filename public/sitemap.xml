@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://blog.sahilister.tech/2020/07/alias-command/</loc>
+    <lastmod>2020-07-08T02:26:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.sahilister.tech/tags/commands/</loc>
+    <lastmod>2020-07-08T02:26:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.sahilister.tech/posts/</loc>
+    <lastmod>2020-07-08T02:26:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.sahilister.tech/</loc>
+    <lastmod>2020-07-08T02:26:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.sahilister.tech/tags/shell/</loc>
+    <lastmod>2020-07-08T02:26:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.sahilister.tech/tags/</loc>
+    <lastmod>2020-07-08T02:26:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.sahilister.tech/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://blog.sahilister.tech/categories/</loc>
+  </url>
+  
+</urlset>

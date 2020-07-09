@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sahilister&#39;s Reimagined Doodle</title>
+    <link>https://blog.sahilister.tech/</link>
+    <description>Recent content on sahilister&#39;s Reimagined Doodle</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Jul 2020 02:26:10 +0530</lastBuildDate>
+    
+	<atom:link href="https://blog.sahilister.tech/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>Alias Command</title>
+      <link>https://blog.sahilister.tech/2020/07/alias-command/</link>
+      <pubDate>Wed, 08 Jul 2020 02:26:10 +0530</pubDate>
+      
+      <guid>https://blog.sahilister.tech/2020/07/alias-command/</guid>
+      <description>Writing long commands is boring. Essentially shortening the commands or chaining of commands helps. This can be achieved using alias command. Alias command is mainly used for abbreviating a system command, or for adding default arguments to a regularly used command.
+Example, instead of writing:
+git add . git commit -m &amp;#34;COMMIT MESSAGE&amp;#34; git push we can write following to achieve the same goals.
+gc &amp;#34;COMMIT MESSAGE&amp;#34; gp In the example, chaining of git commands has been done.</description>
+    </item>
+    
+    
+    
+    
+  </channel>
+</rss>
