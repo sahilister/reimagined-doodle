@@ -12,6 +12,20 @@
     
     
     <item>
+      <title>Duckduckgo Bangs!</title>
+      <link>https://blog.sahilister.tech/2020/07/duckduckgo-bangs/</link>
+      <pubDate>Tue, 14 Jul 2020 17:36:32 +0530</pubDate>
+      
+      <guid>https://blog.sahilister.tech/2020/07/duckduckgo-bangs/</guid>
+      <description>Apart from privacy centric, non-profiled search results; bangs are one of the more underrated features offered by Duckduckgo (now also available on duck.com). Bangs are shortcuts that take you to search results on other sites. Right now there&amp;rsquo;re more than 13,500 bangs available.
+Syntax for bang - !bang &amp;lt;search_term&amp;gt;
+Example - !w Linux , it will get you to Wikipedia&amp;rsquo;s Linux entry.
+ Note - Examples here assume that you’re on Duckduckgo or have it as default search engine.</description>
+    </item>
+    
+    
+    
+    <item>
       <title>Alias Command</title>
       <link>https://blog.sahilister.tech/2020/07/alias-command/</link>
       <pubDate>Wed, 08 Jul 2020 02:26:10 +0530</pubDate>
