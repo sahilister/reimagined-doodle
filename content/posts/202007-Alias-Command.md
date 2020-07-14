@@ -1,7 +1,6 @@
 ---
 title: "Alias Command"
 date: 2020-07-08T02:26:10+05:30
-draft: false
 tags: ["shell", "commands"]
 ---
 

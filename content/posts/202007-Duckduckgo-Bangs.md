@@ -1,7 +1,7 @@
 ---
 title: "Duckduckgo Bangs!"
 date: 2020-07-14T17:36:32+05:30
-draft: true
+tags: ["privacy", "duckduckgo", "shortcut", "bangs"]
 ---
 
 Apart from privacy centric, non-profiled search results; bangs are one of the more underrated features offered by [Duckduckgo](duckduckgo.com) (now also available on [duck.com](https://duck.com)). [Bangs](https://duckduckgo.com/bang?q=) are shortcuts that take you to search results on other sites. Right now there're more than 13,500 bangs available.
