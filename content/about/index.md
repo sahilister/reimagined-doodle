@@ -10,6 +10,6 @@ Believer of liberalism. Always open to new ideas. Tries to separate identity fro
 Thinks "_mind is a collection of thoughts which can be debated and replaced_".
 Everyone should read "The Story of My Experiment with Truth" by Mahatma Gandhi once in their lifetime.
 
-I write on [kudoclasm.me](kudoclasm.me) too.
+I write on [kudoclasm.me](https://kudoclasm.me/) with Deepshikha too.
 
 Reach me at hello **[at]** sahilister **[dot]** tech
