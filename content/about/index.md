@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-Hi, I'm Sahil Dhiman([@sahilister](https://github.com/sahilister)) he/him
+Hi, I'm Sahil Dhiman([@sahilister](https://github.com/sahilister)) he/him.
 
 A Computer Science undergrad, Linux / JavaScript / FOSS lover and now a blog writer ;)
 
@@ -12,4 +12,5 @@ Everyone should read "The Story of My Experiment with Truth" by Mahatma Gandhi o
 
 I write on [kudoclasm.me](https://kudoclasm.me/) with Deepshikha too.
 
-Reach me at hello **[at]** sahilister **[dot]** tech
+Reach me at `hello [at] sahilister [dot] tech`
+
