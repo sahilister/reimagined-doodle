@@ -12,5 +12,9 @@ Everyone should read "The Story of My Experiment with Truth" by Mahatma Gandhi o
 
 I write on [kudoclasm.me](https://kudoclasm.me/) with Deepshikha too.
 
-Reach me at `hello [at] sahilister [dot] tech`
+Reach me at `hello at sahilister dot tech`
+
+_Site powered by [Hugo](https://gohugo.io), theme [etch](https://github.com/Lukasjoswiak/etch)._
+
+
 

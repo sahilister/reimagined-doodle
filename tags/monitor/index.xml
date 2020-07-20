@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>monitor on sahilister&#39;s Reimagined Doodle</title>
+    <link>https://blog.sahilister.tech/tags/monitor/</link>
+    <description>Recent content in monitor on sahilister&#39;s Reimagined Doodle</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Jul 2020 15:44:54 +0530</lastBuildDate>
+    
+	<atom:link href="https://blog.sahilister.tech/tags/monitor/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>Firefox Monitor</title>
+      <link>https://blog.sahilister.tech/2020/07/firefox-monitor/</link>
+      <pubDate>Mon, 20 Jul 2020 15:44:54 +0530</pubDate>
+      
+      <guid>https://blog.sahilister.tech/2020/07/firefox-monitor/</guid>
+      <description>I have always preferred Firefox due to their approach to privacy as well as providing a viable alternative to Google backed Chromium/Chrome. Recently I also started using Thunderbird for Gmail (slowly trying to switch to ProtonMail). I couldn’t figure out why Gmail on Firefox for Linux with my extensions make the Gmail web client crawl.
+Coming to Firefox Monitor. It&amp;rsquo;s an online service to see if an account has been part of any public data breach.</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Duckduckgo Bangs!</title>
+      <link>https://blog.sahilister.tech/2020/07/duckduckgo-bangs/</link>
+      <pubDate>Tue, 14 Jul 2020 17:36:32 +0530</pubDate>
+      
+      <guid>https://blog.sahilister.tech/2020/07/duckduckgo-bangs/</guid>
+      <description>Apart from privacy centric, non-profiled search results; bangs are one of the more underrated features offered by Duckduckgo (now also available on duck.com). Bangs are shortcuts that take you to search results on other sites. Right now there&amp;rsquo;re more than 13,500 bangs available.
+Syntax for bang - !bang &amp;lt;search_term&amp;gt;
+Example - !w Linux , it will get you to Wikipedia&amp;rsquo;s Linux entry.
+ Note - Examples here assume that you’re on Duckduckgo or have it as default search engine.</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Alias Command</title>
+      <link>https://blog.sahilister.tech/2020/07/alias-command/</link>
+      <pubDate>Wed, 08 Jul 2020 02:26:10 +0530</pubDate>
+      
+      <guid>https://blog.sahilister.tech/2020/07/alias-command/</guid>
+      <description>Writing long commands is boring. Essentially shortening the commands or chaining of commands helps. This can be achieved using alias command. Alias command is mainly used for abbreviating a system command, or for adding default arguments to a regularly used command.
+Example, instead of writing:
+git add . git commit -m &amp;#34;COMMIT MESSAGE&amp;#34; git push we can write following to achieve the same goals.
+gc &amp;#34;COMMIT MESSAGE&amp;#34; gp In the example, chaining of git commands has been done.</description>
+    </item>
+    
+    
+    
+    
+  </channel>
+</rss>

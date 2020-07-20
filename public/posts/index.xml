@@ -6,9 +6,21 @@
     <description>Recent content in Posts on sahilister&#39;s Reimagined Doodle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Jul 2020 17:36:32 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2020 15:44:54 +0530</lastBuildDate>
     
 	<atom:link href="https://blog.sahilister.tech/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>Firefox Monitor</title>
+      <link>https://blog.sahilister.tech/2020/07/firefox-monitor/</link>
+      <pubDate>Mon, 20 Jul 2020 15:44:54 +0530</pubDate>
+      
+      <guid>https://blog.sahilister.tech/2020/07/firefox-monitor/</guid>
+      <description>I have always preferred Firefox due to their approach to privacy as well as providing a viable alternative to Google backed Chromium/Chrome. Recently I also started using Thunderbird for Gmail (slowly trying to switch to ProtonMail). I couldn’t figure out why Gmail on Firefox for Linux with my extensions make the Gmail web client crawl.
+Coming to Firefox Monitor. It&amp;rsquo;s an online service to see if an account has been part of any public data breach.</description>
+    </item>
     
     
     
