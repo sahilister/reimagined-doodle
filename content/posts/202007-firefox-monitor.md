@@ -20,5 +20,5 @@ _Side note — Check_ [_have i been pwned?_](https://haveibeenpwned.com/)_. Inst
 As for Wattpad, I don't use the service anymore so I contacted customer service for data deletion request. The procedure is as follows:
 
 - Email _privacy@wattpad.com_ with subject line: `Permanent Account Deletion` with the email address linked to Wattpad account.
-- An automated confirmation mail with usual warning will arrive about losing libraries, reading lists, messages, comments and personal written works arrive. Reply to this mail with an agreement to deletion as well as your username to proceed.
+- An automated confirmation mail with usual warning will arrive about losing libraries, reading lists, messages, comments and personal written works. Reply to this mail with an agreement to deletion as well as your username to proceed.
 - Done.
