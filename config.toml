@@ -8,7 +8,7 @@ pygmentsCodeFences = true
 pygmentsUseClasses = true
 
 [params]
-  description = "thoughts and rambling's"
+  description = "thoughts and ramblings"
   copyright = "Copyright © 2020 Sahil Dhiman. Licensed CC BY-SA 4.0 unless stated."
   dark = "auto"
   highlight = true
