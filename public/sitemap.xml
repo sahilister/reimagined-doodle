@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.sahilister.tech/posts/</loc>
+    <lastmod>2020-07-23T01:32:55+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.sahilister.tech/</loc>
+    <lastmod>2020-07-23T01:32:55+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.sahilister.tech/2020/07/to-zinda-ho-tum/</loc>
+    <lastmod>2020-07-23T01:32:55+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.sahilister.tech/tags/breach/</loc>
     <lastmod>2020-07-20T15:44:54+05:30</lastmod>
   </url>
@@ -23,17 +38,7 @@
   </url>
   
   <url>
-    <loc>https://blog.sahilister.tech/posts/</loc>
-    <lastmod>2020-07-20T15:44:54+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://blog.sahilister.tech/tags/privacy/</loc>
-    <lastmod>2020-07-20T15:44:54+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sahilister.tech/</loc>
     <lastmod>2020-07-20T15:44:54+05:30</lastmod>
   </url>
   
