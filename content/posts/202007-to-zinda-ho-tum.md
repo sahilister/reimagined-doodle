@@ -68,7 +68,7 @@ Akhtar. Listen to the complete playlist; on Invidious
 YouTube 
 [here](https://www.youtube.com/watch?v=ZmAYoJUsFEs&list=PL9bw4S5ePsEH3tOw-4lH5Ehv8fn89RyZx).
 
-#### _Side Note_
+#### _Postscript_
 _The embed uses Invidious ([invidio.us](https://www.invidio.us/)), an [open 
 source](https://github.com/iv-org/invidious), privacy respecting front end to YouTube 
 instead of official YouTube embed.  To know about my dilemma about not embedding YouTube 
