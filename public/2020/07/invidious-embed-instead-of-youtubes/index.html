@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="thoughts and ramblings">
+    
+    <link rel="shortcut icon" href="https://blog.sahilister.tech/favicon.ico">
+    
+    <link rel="stylesheet" href="/css/style.min.css">
+     <a rel="me" href="https://fosstodon.org/@sahilister"></a>
+    <title>Invidious embed instead of Youtube&#39;s</title>
+</head>
+<body><header id="banner">
+    <h2><a href="https://blog.sahilister.tech/">sahilister&#39;s Reimagined Doodle</a></h2>
+    <nav>
+        <ul>
+            
+            <li>
+                <a href="/about/" title="about">about</a>
+            </li>
+            
+        </ul>
+    </nav>
+</header>
+<main id="content">
+<article>
+    <header id="post-header">
+        <h1>Invidious embed instead of Youtube&#39;s</h1><time>July 26, 2020</time></header><p>When I thought about writing my blog post titled <em><a href="https://blog.sahilister.tech/2020/07/to-zinda-ho-tum/">To Zinda Ho
+Tum</a></em>, I was dilemma.
+Situation being, I couldn&rsquo;t simply copy the poem in my blog. A simple attribution
+wouldn&rsquo;t be enough. Then I remembered about Farhan Akhar&rsquo;s
+<a href="https://www.youtube.com/watch?v=Lni3YbDRmpY">narration</a> of the poem for the movie
+<em><a href="https://en.wikipedia.org/wiki/Zindagi_Na_Milegi_Dobara">ZKMD</a></em>. I thought about embedding this video along with my thoughts on it.</p>
+<p>Now another dilemma arouse as YouTube even in it&rsquo;s &ldquo;<em>Privacy-Enhanced mode</em>&rdquo; embed states:</p>
+<blockquote>
+<p>When you turn on privacy-enhanced mode, YouTube won&rsquo;t store information about visitors on your website unless they play the video.</p>
+</blockquote>
+<blockquote>
+<p>— <em>YouTube<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></em></p>
+</blockquote>
+<p>The last part troubled me. If a visitor on my blog views the video, he would be unknowingly feeding their information to YouTube and Google service for ad tracking.</p>
+<p>Then I remembered about <a href="https://github.com/iv-org/invidious">Invidious</a>, an open
+source, alternate privacy centric front to YouTube which doesn&rsquo;t track. Delighted, I
+searched how to embed video using Invidious&rsquo;s official instance
+<a href="https://www.invidio.us/">invidio.us</a> but to no avail. A reply in the forum post finally helped. It said to replace YouTube&rsquo;s URL in the embed code with invidio.us&rsquo;s. Tried and it worked. Now I could embed any YouTube video without Google&rsquo;s tracking.</p>
+<h4 id="about-invidious">About Invidious</h4>
+<p>Invidious is an alternative front-end to YouTube licensed under AGPLv3+. Other than
+privacy feature, it supports Audio-only mode, Onion support, Dark mode, doesn&rsquo;t require JavaScript to
+play video, doesn&rsquo;t require Google account to save subscriptions and absolutely no
+ads.</p>
+<p><a href="https://www.invidio.us/">invidio.us</a> is the official instance.
+List of other public instances can be found <a href="https://github.com/iv-org/invidious/wiki/Invidious-Instances">here</a>.
+Some instances offer downloads too.</p>
+<h4 id="for-hugo-users">For Hugo users</h4>
+<p>Hugo provides shortcodes for
+<a href="https://gohugo.io/content-management/shortcodes/#vimeo">Vimeo</a>,
+<a href="https://gohugo.io/content-management/shortcodes/#youtube">YouTube</a> and a bunch
+of
+<a href="https://gohugo.io/templates/shortcode-templates/#more-shortcode-examples">services</a>.
+A <a href="https://gohugo.io/content-management/shortcodes/">shortcode</a> is a simple HTML
+snippet inside a content file that Hugo will render using predefined template. It can
+accept arguments too. For example in our case the link of the video.</p>
+<p>Invidious doesn&rsquo;t have a predefined shortcode in Hugo, so we&rsquo;ll go into how I created
+one for this <a href="https://blog.sahilister.tech/2020/07/to-zinda-ho-tum/">post</a>. Let&rsquo;s create:</p>
+<ol>
+<li>Make a new sub-directory inside <code>layouts</code>. Name it <code>shortcodes</code>.</li>
+<li>Inside <code>shortcodes</code>, create a file named <code>invidious.html</code>.</li>
+<li>Define your shortcode HTML inside it.</li>
+</ol>
+<div class="highlight"><pre class="chroma"><code class="language-html" data-lang="html"><span class="p">&lt;</span><span class="nt">div</span> <span class="na">class</span><span class="o">=</span><span class="s">&#39;embed-container&#39;</span><span class="p">&gt;</span>
+ _ <span class="p">&lt;</span><span class="nt">iframe</span> <span class="na">src</span><span class="o">=</span><span class="s">&#39;https://invidio.us/embed/{{ index .Params 0 }}&#39;</span>
+	 <span class="na">frameborder</span><span class="o">=</span><span class="s">&#39;0&#39;</span> <span class="na">allowfullscreen</span><span class="p">&gt;</span>
+  _<span class="p">&lt;/</span><span class="nt">iframe</span><span class="p">&gt;</span>
+<span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
+</code></pre></div><p><em>Notice the</em> <code>{{ index .Params 0}}</code> . <em>This accepts the link argument from content file.</em></p>
+<p>Now let&rsquo;s use the shortcode:</p>
+<ol>
+<li>Inside you&rsquo;re content file, write</li>
+</ol>
+<div class="highlight"><pre class="chroma"><code class="language-html" data-lang="html">{{ <span class="p">&lt;</span> <span class="nt">invidious</span> <span class="na">LINK</span> <span class="p">&gt;</span> }}
+</code></pre></div><p><em>Link here only means the alphanumeric text after <strong>&ldquo;=&rdquo;</strong> in video URL like
+<strong>Lni3YbDRmpY</strong> in <a href="https://invidio.us/watch?v=Lni3YbDRmpY">https://invidio.us/watch?v=Lni3YbDRmpY</a>.</em></p>
+<p><em><strong>Note</strong> — To use above shortcode, there is no space between the curly brackets and side
+arrows like shown <a href="https://paste.debian.net/plain/1157847">here</a>. Writing shortcode triggered my
+shortcode implementation, so had to resort to putting a link.</em></p>
+<p>Learn more about creating your shortcode <a href="https://gohugo.io/templates/shortcode-templates/">here</a> or see a
+list of codes for some other shortcodes
+<a href="https://github.com/spf13/spf13.com/tree/master/layouts/shortcodes">here</a> and <a href="https://github.com/gohugoio/hugo/tree/master/docs/layouts/shortcodes">here</a>.</p>
+<section class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1" role="doc-endnote">
+<p>Text taken from YouTube&rsquo;s embed section. Can be viewed by clicking on video share button, then embed and hovering over <strong>i</strong> icon. <a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</section>
+</article>
+
+        </main><footer id="footer">
+    <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0; 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  " src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />
+  <div style="text-align: center">All content licensed under <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> license unless otherwise stated. </div>
+  <br /> 
+  <i><div style="text-align: center">Copyright © </i> 2020  Sahil Dhiman. </div>
+</footer>
+
+
+
+
+</body>
+</html>

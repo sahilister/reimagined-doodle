@@ -1,5 +1,5 @@
 ---
-title: "Alias Command"
+title: "Alias command"
 date: 2020-07-08T02:26:10+05:30
 tags: ["shell", "commands"]
 ---

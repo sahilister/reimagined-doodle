@@ -6,9 +6,21 @@
     <description>Recent content in Tags on sahilister&#39;s Reimagined Doodle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Jul 2020 15:44:54 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2020 03:49:20 +0530</lastBuildDate>
     
 	<atom:link href="https://blog.sahilister.tech/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>Invidious embed instead of Youtube&#39;s</title>
+      <link>https://blog.sahilister.tech/2020/07/invidious-embed-instead-of-youtubes/</link>
+      <pubDate>Sun, 26 Jul 2020 03:49:20 +0530</pubDate>
+      
+      <guid>https://blog.sahilister.tech/2020/07/invidious-embed-instead-of-youtubes/</guid>
+      <description>When I thought about writing my blog post titled To Zinda Ho Tum, I was dilemma. Situation being, I couldn&amp;rsquo;t simply copy the poem in my blog. A simple attribution wouldn&amp;rsquo;t be enough. Then I remembered about Farhan Akhar&amp;rsquo;s narration of the poem for the movie ZKMD. I thought about embedding this video along with my thoughts on it.
+Now another dilemma arouse as YouTube even in it&amp;rsquo;s &amp;ldquo;Privacy-Enhanced mode&amp;rdquo; embed states:</description>
+    </item>
     
     
     
@@ -43,7 +55,7 @@ Coming to Firefox Monitor. It&amp;rsquo;s an online service to see if an account
     
     
     <item>
-      <title>Duckduckgo Bangs!</title>
+      <title>Duckduckgo bangs!</title>
       <link>https://blog.sahilister.tech/2020/07/duckduckgo-bangs/</link>
       <pubDate>Tue, 14 Jul 2020 17:36:32 +0530</pubDate>
       
@@ -57,7 +69,7 @@ Example - !w Linux , it will get you to Wikipedia&amp;rsquo;s Linux entry.
     
     
     <item>
-      <title>Alias Command</title>
+      <title>Alias command</title>
       <link>https://blog.sahilister.tech/2020/07/alias-command/</link>
       <pubDate>Wed, 08 Jul 2020 02:26:10 +0530</pubDate>
       

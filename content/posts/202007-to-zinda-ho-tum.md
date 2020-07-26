@@ -1,7 +1,7 @@
 ---
 title: "To Zinda Ho Tum"
 date: 2020-07-23T01:32:55+05:30
-tags: [""]
+tags: ["poem","motivation","interlink"]
 ---
 
 {{< invidious Lni3YbDRmpY >}}

@@ -1,5 +1,5 @@
 ---
-title: "Duckduckgo Bangs!"
+title: "Duckduckgo bangs!"
 date: 2020-07-14T17:36:32+05:30
 tags: ["privacy", "duckduckgo", "shortcut", "bangs"]
 ---
