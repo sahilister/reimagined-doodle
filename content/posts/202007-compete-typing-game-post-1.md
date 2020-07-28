@@ -12,8 +12,8 @@ Today I'm committing to working on compete. Compete is an online multiplayer typ
 game which I intend to work upon. Now that my college require me to submit a project, 
 I'll work on compete.
 
-This is first in series of posts I'll write every day having 8 in its date i.e. 8, 18, 28; updating about the status 
-of work. Initial timeline is 2 months starting from July 28th, 2020 till September 
+This is first in series of posts I'll write each day having 8 in its date i.e. 8, 18, 28 of the month; updating about the status 
+of work. Initial timeline is 2 months starting from July 28th, 2020 ending on September 
 28th, 2020 (coincidentally next day of my birthday).
 
 ## Table of Content
@@ -64,15 +64,15 @@ of work. Initial timeline is 2 months starting from July 28th, 2020 till Septemb
 ### Thoughts and Learnings
 
 In my 3rd year of my college, we used to play 
-[typeracer](https://play.typeracer.com/) a lot. We used to host room and tell 
+[typeracer](https://play.typeracer.com/) a lot. We used to host rooms and tell 
 classmates to join. Maybe that was the initial inspiration behind it. 
 
 Through the 
 project I want to work on React(for frontend), Node.js (for backend server), Express (Node.js framework), Amazon Elastic Compute 
-Cloud (EC2 a virtual computer) which is fun, AWS Elastic Beanstalk (in place of Heroku, for application deployment on EC2), Socket.IO (for bi-directional communication b/w client and server) 
+Cloud (a virtual computer) which is fun, AWS Elastic Beanstalk (in place of Heroku, for application deployment on EC2), Socket.IO (for bi-directional communication b/w client and server) 
 and maybe p5.js (for visual features).
 
-And above all get compete with friends in typing on my personal domain at [compete.sahilister.tech]().
+And above all get compete with friends in typing on my personal domain at [compete.sahilister.tech]() is the main motivation. 
 
 ### Changelog
 
