@@ -73,4 +73,4 @@ _The embed uses Invidious ([invidio.us](https://www.invidio.us/)), an [open
 source](https://github.com/iv-org/invidious), privacy respecting front end to YouTube
 instead of official YouTube embed.  To know about my dilemma about not embedding YouTube
 into my blog (for privacy reasons) and finally using Invidious to achieve it, read
-here(will put the link here as the post goes up)._
+[here](https://blog.sahilister.tech/2020/07/invidious-embed-instead-of-youtubes/)._
