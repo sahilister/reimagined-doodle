@@ -6,9 +6,22 @@
     <description>Recent content on sahilister&#39;s Reimagined Doodle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Jul 2020 03:49:20 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2020 01:09:38 +0530</lastBuildDate>
     
 	<atom:link href="https://blog.sahilister.tech/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>compete - Typing Game, Post 1</title>
+      <link>https://blog.sahilister.tech/2020/07/compete-typing-game-post-1/</link>
+      <pubDate>Tue, 28 Jul 2020 01:09:38 +0530</pubDate>
+      
+      <guid>https://blog.sahilister.tech/2020/07/compete-typing-game-post-1/</guid>
+      <description>Github repository, Next (coming on August 8th) post in the series.
+Today I&amp;rsquo;m committing to working on compete. Compete is an online multiplayer typing game which I intend to work upon. Now that my college require me to submit a project, I&amp;rsquo;ll work on compete.
+This is first in series of posts I&amp;rsquo;ll write every day having 8 in its date i.e. 8, 18, 28; updating about the status of work.</description>
+    </item>
     
     
     
