@@ -22,3 +22,6 @@ As for Wattpad, I don't use the service anymore so I contacted customer service 
 - Email _privacy@wattpad.com_ with subject line: `Permanent Account Deletion` with the email address linked to Wattpad account.
 - An automated confirmation mail with usual warning will arrive about losing libraries, reading lists, messages, comments and personal written works. Reply to this mail with an agreement to deletion as well as your username to proceed.
 - Done.
+
+
+_PS: Firefox shows dialog box with breach alerts with info if you visit such site._

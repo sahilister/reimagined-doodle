@@ -1,28 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>invidious on sahilister&#39;s Reimagined Doodle</title>
+    <title>Invidious on sahilister&#39;s Reimagined Doodle</title>
     <link>https://blog.sahilister.tech/tags/invidious/</link>
-    <description>Recent content in invidious on sahilister&#39;s Reimagined Doodle</description>
+    <description>Recent content in Invidious on sahilister&#39;s Reimagined Doodle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 26 Jul 2020 03:49:20 +0530</lastBuildDate>
     
 	<atom:link href="https://blog.sahilister.tech/tags/invidious/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    
-    <item>
-      <title>compete - Typing Game, Post 1</title>
-      <link>https://blog.sahilister.tech/2020/07/compete-typing-game-post-1/</link>
-      <pubDate>Tue, 28 Jul 2020 01:09:38 +0530</pubDate>
-      
-      <guid>https://blog.sahilister.tech/2020/07/compete-typing-game-post-1/</guid>
-      <description>Github repository, Next (coming on August 8th) post in the series.
-Today I&amp;rsquo;m committing to working on compete. Compete is an online multiplayer typing game which I intend to work upon. Now that my college require me to submit a project, I&amp;rsquo;ll work on compete.
-This is first in series of posts I&amp;rsquo;ll write each day having 8 in its date i.e. 8, 18, 28 of the month; updating about the status of work.</description>
-    </item>
-    
     
     
     <item>
@@ -31,70 +17,9 @@ This is first in series of posts I&amp;rsquo;ll write each day having 8 in its d
       <pubDate>Sun, 26 Jul 2020 03:49:20 +0530</pubDate>
       
       <guid>https://blog.sahilister.tech/2020/07/invidious-embed-instead-of-youtubes/</guid>
-      <description>When I thought about writing my blog post titled To Zinda Ho Tum, I was dilemma. Situation being, I couldn&amp;rsquo;t simply copy the poem in my blog. A simple attribution wouldn&amp;rsquo;t be enough. Then I remembered about Farhan Akhar&amp;rsquo;s narration of the poem for the movie ZKMD. I thought about embedding this video along with my thoughts on it.
-Now another dilemma arouse as YouTube even in it&amp;rsquo;s &amp;ldquo;Privacy-Enhanced mode&amp;rdquo; embed states:</description>
+      <description>When I thought about writing my blog post titled To Zinda Ho Tum, I was dilemma. Situation being, I couldn&amp;rsquo;t simply copy the poem in my blog. A simple attribution wouldn&amp;rsquo;t be enough. Then I remembered about Farhan Akhar&amp;rsquo;s narration of the poem for the movie _ZKMD_. I thought about embedding this video along with my thoughts on it.
+Now another dilemma arouse as YouTube even in it&amp;rsquo;s &amp;ldquo;Privacy-Enhanced mode&amp;rdquo; embed states: &amp;gt; When you turn on privacy-enhanced mode, YouTube won&amp;rsquo;t store information about visitors on your website unless they play the video.</description>
     </item>
-    
-    
-    
-    <item>
-      <title>To Zinda Ho Tum</title>
-      <link>https://blog.sahilister.tech/2020/07/to-zinda-ho-tum/</link>
-      <pubDate>Thu, 23 Jul 2020 01:32:55 +0530</pubDate>
-      
-      <guid>https://blog.sahilister.tech/2020/07/to-zinda-ho-tum/</guid>
-      <description>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }     Video Credit - T-Series  
-Rough Translation: If you&amp;rsquo;re moving with eagerness in your heart,
-then you&amp;rsquo;re alive!
-
-If you have sparks of dreams in your eyes,
-then you&amp;rsquo;re alive!
- 
-Learn to be free like gusts of wind,</description>
-    </item>
-    
-    
-    
-    <item>
-      <title>Firefox Monitor</title>
-      <link>https://blog.sahilister.tech/2020/07/firefox-monitor/</link>
-      <pubDate>Mon, 20 Jul 2020 15:44:54 +0530</pubDate>
-      
-      <guid>https://blog.sahilister.tech/2020/07/firefox-monitor/</guid>
-      <description>I have always preferred Firefox due to their approach to privacy as well as providing a viable alternative to Google backed Chromium/Chrome. Recently I also started using Thunderbird for Gmail (slowly trying to switch to ProtonMail). I couldn’t figure out why Gmail on Firefox for Linux with my extensions make the Gmail web client crawl.
-Coming to Firefox Monitor. It&amp;rsquo;s an online service to see if an account has been part of any public data breach.</description>
-    </item>
-    
-    
-    
-    <item>
-      <title>Duckduckgo bangs!</title>
-      <link>https://blog.sahilister.tech/2020/07/duckduckgo-bangs/</link>
-      <pubDate>Tue, 14 Jul 2020 17:36:32 +0530</pubDate>
-      
-      <guid>https://blog.sahilister.tech/2020/07/duckduckgo-bangs/</guid>
-      <description>Apart from privacy centric, non-profiled search results; bangs are one of the more underrated features offered by Duckduckgo (now also available on duck.com). Bangs are shortcuts that take you to search results on other sites. Right now there&amp;rsquo;re more than 13,500 bangs available.
-Syntax for bang - !bang &amp;lt;search_term&amp;gt;
-Example - !w Linux , it will get you to Wikipedia&amp;rsquo;s Linux entry.
- Note - Examples here assume that you’re on Duckduckgo or have it as default search engine.</description>
-    </item>
-    
-    
-    
-    <item>
-      <title>Alias command</title>
-      <link>https://blog.sahilister.tech/2020/07/alias-command/</link>
-      <pubDate>Wed, 08 Jul 2020 02:26:10 +0530</pubDate>
-      
-      <guid>https://blog.sahilister.tech/2020/07/alias-command/</guid>
-      <description>Writing long commands is boring. Essentially shortening the commands or chaining of commands helps. This can be achieved using alias command. Alias command is mainly used for abbreviating a system command, or for adding default arguments to a regularly used command.
-Example, instead of writing:
-git add . git commit -m &amp;#34;COMMIT MESSAGE&amp;#34; git push we can write following to achieve the same goals.
-gc &amp;#34;COMMIT MESSAGE&amp;#34; gp In the example, chaining of git commands has been done.</description>
-    </item>
-    
-    
-    
     
   </channel>
 </rss>

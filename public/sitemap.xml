@@ -1,55 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://blog.sahilister.tech/tags/compete/</loc>
-    <lastmod>2020-07-28T01:09:38+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://blog.sahilister.tech/2020/07/compete-typing-game-post-1/</loc>
     <lastmod>2020-07-28T01:09:38+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sahilister.tech/tags/game/</loc>
-    <lastmod>2020-07-28T01:09:38+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sahilister.tech/tags/interlink/</loc>
-    <lastmod>2020-07-28T01:09:38+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sahilister.tech/posts/</loc>
-    <lastmod>2020-07-28T01:09:38+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sahilister.tech/tags/project/</loc>
-    <lastmod>2020-07-28T01:09:38+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sahilister.tech/</loc>
-    <lastmod>2020-07-28T01:09:38+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sahilister.tech/tags/</loc>
-    <lastmod>2020-07-28T01:09:38+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sahilister.tech/tags/typing/</loc>
-    <lastmod>2020-07-28T01:09:38+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sahilister.tech/tags/invidious/</loc>
-    <lastmod>2020-07-26T03:49:20+05:30</lastmod>
   </url>
   
   <url>
@@ -58,38 +13,8 @@
   </url>
   
   <url>
-    <loc>https://blog.sahilister.tech/tags/privacy/</loc>
-    <lastmod>2020-07-26T03:49:20+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sahilister.tech/tags/youtube/</loc>
-    <lastmod>2020-07-26T03:49:20+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sahilister.tech/tags/motivation/</loc>
-    <lastmod>2020-07-23T01:32:55+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sahilister.tech/tags/poem/</loc>
-    <lastmod>2020-07-23T01:32:55+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://blog.sahilister.tech/2020/07/to-zinda-ho-tum/</loc>
     <lastmod>2020-07-23T01:32:55+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sahilister.tech/tags/breach/</loc>
-    <lastmod>2020-07-20T15:44:54+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sahilister.tech/tags/firefox/</loc>
-    <lastmod>2020-07-20T15:44:54+05:30</lastmod>
   </url>
   
   <url>
@@ -98,27 +23,7 @@
   </url>
   
   <url>
-    <loc>https://blog.sahilister.tech/tags/monitor/</loc>
-    <lastmod>2020-07-20T15:44:54+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sahilister.tech/tags/bangs/</loc>
-    <lastmod>2020-07-14T17:36:32+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sahilister.tech/tags/duckduckgo/</loc>
-    <lastmod>2020-07-14T17:36:32+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://blog.sahilister.tech/2020/07/duckduckgo-bangs/</loc>
-    <lastmod>2020-07-14T17:36:32+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sahilister.tech/tags/shortcut/</loc>
     <lastmod>2020-07-14T17:36:32+05:30</lastmod>
   </url>
   
@@ -128,21 +33,138 @@
   </url>
   
   <url>
+    <loc>https://blog.sahilister.tech/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://blog.sahilister.tech/tags/bangs/</loc>
+    <lastmod>2020-07-14T17:36:32+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sahilister.tech/tags/breach/</loc>
+    <lastmod>2020-07-20T15:44:54+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sahilister.tech/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.sahilister.tech/tags/commands/</loc>
     <lastmod>2020-07-08T02:26:10+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sahilister.tech/tags/compete/</loc>
+    <lastmod>2020-07-28T01:09:38+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sahilister.tech/tags/duckduckgo/</loc>
+    <lastmod>2020-07-14T17:36:32+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sahilister.tech/tags/firefox/</loc>
+    <lastmod>2020-07-20T15:44:54+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sahilister.tech/tags/game/</loc>
+    <lastmod>2020-07-28T01:09:38+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sahilister.tech/tags/interlink/</loc>
+    <lastmod>2020-07-28T01:09:38+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sahilister.tech/tags/invidious/</loc>
+    <lastmod>2020-07-26T03:49:20+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sahilister.tech/tags/monitor/</loc>
+    <lastmod>2020-07-20T15:44:54+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sahilister.tech/tags/motivation/</loc>
+    <lastmod>2020-07-23T01:32:55+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sahilister.tech/tags/poem/</loc>
+    <lastmod>2020-07-23T01:32:55+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sahilister.tech/posts/</loc>
+    <lastmod>2020-07-28T01:09:38+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sahilister.tech/tags/privacy/</loc>
+    <lastmod>2020-07-26T03:49:20+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sahilister.tech/tags/project/</loc>
+    <lastmod>2020-07-28T01:09:38+05:30</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.sahilister.tech/tags/shell/</loc>
     <lastmod>2020-07-08T02:26:10+05:30</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.sahilister.tech/about/</loc>
+    <loc>https://blog.sahilister.tech/tags/shortcut/</loc>
+    <lastmod>2020-07-14T17:36:32+05:30</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.sahilister.tech/categories/</loc>
+    <loc>https://blog.sahilister.tech/tags/</loc>
+    <lastmod>2020-07-14T17:36:32+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sahilister.tech/tags/typing/</loc>
+    <lastmod>2020-07-28T01:09:38+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sahilister.tech/tags/youtube/</loc>
+    <lastmod>2020-07-26T03:49:20+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sahilister.tech/</loc>
+    <lastmod>2020-07-28T01:09:38+05:30</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
