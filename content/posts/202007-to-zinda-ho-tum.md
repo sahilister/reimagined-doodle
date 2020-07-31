@@ -60,12 +60,11 @@ _[Toh Zinda Ho Tum](http://atulchitnis.net/2013/toh-zinda-ho-tum-then-you-are-al
 Akhtar. Reading it, I felt how much I love these lines, how different I feel every time
 listening to these lines, hence decided posted it here.
 
-Poems in the movie _[Zindagi Na Milegi
-Dobara](https://en.wikipedia.org/wiki/Zindagi_Na_Milegi_Dobara)_ are gems in
-themselves. Beautifully penned by the Great Javed Akhtar and narrated by Farhan
-Akhtar. Listen to the complete playlist; on Invidious
-[here](https://invidio.us/playlist?list=PL9bw4S5ePsEH3tOw-4lH5Ehv8fn89RyZx) or on
-YouTube
+Poems in the movie [_Zindagi Na Milegi 
+Dobara_](https://en.wikipedia.org/wiki/Zindagi_Na_Milegi_Dobara) are gems in themselves. 
+Beautifully penned by the Great Javed Akhtar and narrated by Farhan Akhtar. Listen to the 
+complete playlist; on Invidious 
+[here](https://invidio.us/playlist?list=PL9bw4S5ePsEH3tOw-4lH5Ehv8fn89RyZx) or on YouTube 
 [here](https://www.youtube.com/watch?v=ZmAYoJUsFEs&list=PL9bw4S5ePsEH3tOw-4lH5Ehv8fn89RyZx).
 
 #### _Postscript_
