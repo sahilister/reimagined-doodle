@@ -9,7 +9,7 @@ Tum](https://blog.sahilister.tech/2020/07/to-zinda-ho-tum/)_, I was dilemma.
 Situation being, I couldn't simply copy the poem in my blog. A simple attribution 
 wouldn't be enough. Then I remembered about Farhan Akhar's 
 [narration](https://www.youtube.com/watch?v=Lni3YbDRmpY) of the poem for the movie 
-_[ZKMD](https://en.wikipedia.org/wiki/Zindagi_Na_Milegi_Dobara)_. I thought about embedding this video along with my thoughts on it.
+[_ZKMD_](https://en.wikipedia.org/wiki/Zindagi_Na_Milegi_Dobara). I thought about embedding this video along with my thoughts on it.
 
 Now another dilemma arouse as YouTube even in it's "_Privacy-Enhanced mode_" embed states:
 > When you turn on privacy-enhanced mode, YouTube won't store information about visitors on your website unless they play the video.

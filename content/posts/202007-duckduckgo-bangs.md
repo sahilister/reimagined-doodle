@@ -6,20 +6,21 @@ tags: ["privacy", "duckduckgo", "shortcut", "bangs"]
 
 Apart from privacy centric, non-profiled search results; bangs are one of the more underrated features offered by [Duckduckgo](https://duckduckgo.com/) (now also available on [duck.com](https://duck.com)). [Bangs](https://duckduckgo.com/bang?q=) are shortcuts that take you to search results on other sites. Right now there're more than 13,500 bangs available.
 
-Syntax for bang -  _!bang <search_term>_
+Syntax for bang -  _!bang_ _SEARCH-TERM_
 
 Example - _!w Linux_ ,
 it will get you to Wikipedia's Linux [entry](https://en.wikipedia.org/wiki/Linux).
 
 > **_Note_** _- Examples here assume that you’re on Duckduckgo or have it as default search engine._
 
-Some other example are: 
-- _!yt <video_title>_ for Youtube.
-- _!a <shopping_item>_ for Amazon.
-- _!r <subreddit_search>_ for Reddit.
+Some other example are:
+
+*   _!yt video-title_ for Youtube.
+*   _!a_ for Amazon.
+*   _!r_ for Reddit.
 
 And to search for bang for your favorite site, 
- _!bang <favorite_site>_
+ _!bang favorite-site_
 
 If a site's bang isn't available, simply submit new bangs [here](https://duckduckgo.com/newbang).
 
