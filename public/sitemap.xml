@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.sahilister.tech/2020/08/privacy-and-security/</loc>
+    <lastmod>2020-08-05T02:39:08+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.sahilister.tech/2020/07/compete-typing-game-post-1/</loc>
     <lastmod>2020-07-28T01:09:38+05:30</lastmod>
   </url>
@@ -72,6 +77,12 @@
   </url>
   
   <url>
+    <loc>https://blog.sahilister.tech/tags/experience/</loc>
+    <lastmod>2020-08-05T02:39:08+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.sahilister.tech/tags/firefox/</loc>
     <lastmod>2020-07-20T15:44:54+05:30</lastmod>
     <priority>0</priority>
@@ -115,19 +126,25 @@
   
   <url>
     <loc>https://blog.sahilister.tech/posts/</loc>
-    <lastmod>2020-07-28T01:09:38+05:30</lastmod>
+    <lastmod>2020-08-05T02:39:08+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.sahilister.tech/tags/privacy/</loc>
-    <lastmod>2020-07-26T03:49:20+05:30</lastmod>
+    <lastmod>2020-08-05T02:39:08+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.sahilister.tech/tags/project/</loc>
     <lastmod>2020-07-28T01:09:38+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sahilister.tech/tags/security/</loc>
+    <lastmod>2020-08-05T02:39:08+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -163,7 +180,7 @@
   
   <url>
     <loc>https://blog.sahilister.tech/</loc>
-    <lastmod>2020-07-28T01:09:38+05:30</lastmod>
+    <lastmod>2020-08-05T02:39:08+05:30</lastmod>
     <priority>0</priority>
   </url>
   

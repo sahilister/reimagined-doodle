@@ -6,10 +6,22 @@
     <description>Recent content on sahilister&#39;s Reimagined Doodle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jul 2020 01:09:38 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2020 02:39:08 +0530</lastBuildDate>
     
 	<atom:link href="https://blog.sahilister.tech/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Privacy and Security</title>
+      <link>https://blog.sahilister.tech/2020/08/privacy-and-security/</link>
+      <pubDate>Wed, 05 Aug 2020 02:39:08 +0530</pubDate>
+      
+      <guid>https://blog.sahilister.tech/2020/08/privacy-and-security/</guid>
+      <description>Note — I&amp;rsquo;ll broadly focus on the digital/cyber side of privacy and security.
+I always believed a secure system is equal to privacy respecting system. After Bryan Lunduke uploaded this and this video, they got me thinking that privacy and security are inherently two different terms. Privacy partially overlaps with security, but they many-a-times exist independently.
+First let&amp;rsquo;s go over textbook definitions of the terms.
+ Privacy is the ability of an individual or group to seclude themselves or information about themselves, thereby express themselves selectively.</description>
+    </item>
     
     <item>
       <title>compete - Typing Game, Post 1</title>

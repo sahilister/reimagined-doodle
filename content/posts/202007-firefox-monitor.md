@@ -10,8 +10,9 @@ Coming to [Firefox Monitor](https://monitor.firefox.com/). It's an online servic
 
 #### My Experience
 
-Today i received a breach [alert](https://monitor.firefox.com/breach-details/Wattpad) for Wattpad. [Wattpad](https://www.wattpad.com) is a website for readers and writers to publish new user-generated stories in different genres. The breach exposed almost 270 million records including names, usernames, email, IP address, genders, date of birth and passwords as bcrypt hashes.[^1]
-[^1]: "Have I Been Pwned: Pwned websites". [_haveibeenpwned.com_](https://haveibeenpwned.com/PwnedWebsites#Wattpad).
+Today i received a breach [alert](https://monitor.firefox.com/breach-details/Wattpad) for Wattpad. [Wattpad](https://www.wattpad.com) is a website for readers and writers to publish new user-generated stories in different genres. The breach exposed almost 270 million records including names, usernames, email, IP address, genders, date of birth and passwords as bcrypt hashes.<cite>[^1]</cite>
+
+[^1]: ["Have I Been Pwned: Pwned websites"](https://haveibeenpwned.com/PwnedWebsites#Wattpad). _haveibeenpwned.com_.
 
 Bear in mind, Wattpad didn't contact me or anyone to inform about the data compromised. No public disclosure was done to inform users to change their credentials. Companies tend to hide these kinds of breaches for PR purposes but it leads to privacy and security concerns. This is also an added benefit of using Firefox Monitor.
 
