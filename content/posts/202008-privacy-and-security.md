@@ -44,7 +44,7 @@ them protection). Opinions vary but this is what I think. Sometimes they overlap
 case of [ProtonMail](https://protonmail.com/) but it's less often.
 
 Recently, I was telling a friend about the dangers of using 
-[APK](.https://en.wikipedia.org/wiki/Android_application_package)s from untrusted sources of 
+[APK](https://en.wikipedia.org/wiki/Android_application_package)s from untrusted sources of 
 unknown origins. Into the conversation, he asked me what security practices should he follow. I 
 advised him to get apps from Play Store only and put his trust in Google Play Security team. Though in the back of my mind, during the conversation, I had that from privacy context, non in their sane mind would 
 recommend Google services.
