@@ -50,6 +50,5 @@ advised him to get apps from Play Store only and put his trust in Google Play Se
 recommend Google services.
 
 _PS: Another takeaway from the discussion was the question 
-of threat models.Maybe 
-I'll write about that some other day._
+of threat models. Maybe I'll write about that some other day._
 
