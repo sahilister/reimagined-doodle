@@ -5,7 +5,7 @@ tags: ["project", "compete", "typing", "game", "interlink"]
 ---
 
  _[Github repository](https://github.com/sahilister/compete)_, 
- _[Next]() (coming on August 8th) post in the series._
+ _[Next](https://blog.sahilister.tech/2020/08/compete-typing-game-post-2/) post in the series._
 
 
 Today I'm committing to working on compete. Compete is an online multiplayer typing 
