@@ -1,5 +1,5 @@
 ---
-title: "compete - Typing Game, Post 1"
+title: "compete - Typing Game, Post 2"
 date: 2020-08-09T01:09:38+05:30
 tags: ["project", "compete", "typing", "game", "interlink"]
 ---
