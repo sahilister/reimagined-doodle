@@ -12,6 +12,7 @@ wouldn't be enough. Then I remembered about Farhan Akhar's
 [_ZKMD_](https://en.wikipedia.org/wiki/Zindagi_Na_Milegi_Dobara). I thought about embedding this video along with my thoughts on it.
 
 Now another dilemma arouse as YouTube even in it's "_Privacy-Enhanced mode_" embed states:
+
 > When you turn on privacy-enhanced mode, YouTube won't store information about visitors on your website unless they play the video.
 
 > — _YouTube[^1]_
@@ -80,3 +81,11 @@ shortcode implementation, so had to resort to putting a link._
 Learn more about creating your shortcode [here](https://gohugo.io/templates/shortcode-templates/) or see a 
 list of codes for some other shortcodes 
 [here](https://github.com/spf13/spf13.com/tree/master/layouts/shortcodes) and [here](https://github.com/gohugoio/hugo/tree/master/docs/layouts/shortcodes).
+
+_PS: Now that invidio.us is no longer available, try 
+[invidious.snopyta.org](https://invidious.snopyta.org/) or one from the list of [public 
+instances](https://github.com/iv-org/invidious/wiki/Invidious-Instances) for the embed._
+
+_PSS: I wrote a The creator of Invidious, Omar Roth stepped away from the project, my thoughts 
+about it can be found 
+[here](https://blog.sahilister.tech/2020/08/invidious-creator-steps-away-from-open-source/)._

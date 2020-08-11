@@ -67,9 +67,12 @@ complete playlist; on Invidious
 [here](https://invidio.us/playlist?list=PL9bw4S5ePsEH3tOw-4lH5Ehv8fn89RyZx) or on YouTube 
 [here](https://www.youtube.com/watch?v=ZmAYoJUsFEs&list=PL9bw4S5ePsEH3tOw-4lH5Ehv8fn89RyZx).
 
-#### _Postscript_
-_The embed uses Invidious ([invidio.us](https://www.invidio.us/)), an [open
+_PS: The embed uses Invidious ([invidio.us](https://www.invidio.us/)), an [open
 source](https://github.com/iv-org/invidious), privacy respecting front end to YouTube
 instead of official YouTube embed.  To know about my dilemma about not embedding YouTube
 into my blog (for privacy reasons) and finally using Invidious to achieve it, read
 [here](https://blog.sahilister.tech/2020/07/invidious-embed-instead-of-youtubes/)._
+
+_PSS: The creator of Invidious, Omar Roth stepped away from the project, my thoughts about it 
+can be found 
+[here](https://blog.sahilister.tech/2020/08/invidious-creator-steps-away-from-open-source/)._
