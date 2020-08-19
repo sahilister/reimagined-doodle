@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.sahilister.tech/2020/08/how-i-installed-searx-using-yunohost/</loc>
+    <lastmod>2020-08-19T01:22:38+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.sahilister.tech/2020/08/invidious-creator-steps-away-from-open-source/</loc>
     <lastmod>2020-08-11T18:56:23+05:30</lastmod>
   </url>
@@ -136,13 +141,13 @@
   
   <url>
     <loc>https://blog.sahilister.tech/posts/</loc>
-    <lastmod>2020-08-11T18:56:23+05:30</lastmod>
+    <lastmod>2020-08-19T01:22:38+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.sahilister.tech/tags/privacy/</loc>
-    <lastmod>2020-08-11T18:56:23+05:30</lastmod>
+    <lastmod>2020-08-19T01:22:38+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -153,8 +158,20 @@
   </url>
   
   <url>
+    <loc>https://blog.sahilister.tech/tags/searx/</loc>
+    <lastmod>2020-08-19T01:22:38+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.sahilister.tech/tags/security/</loc>
     <lastmod>2020-08-05T02:39:08+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sahilister.tech/tags/selfhosting/</loc>
+    <lastmod>2020-08-19T01:22:38+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -190,7 +207,7 @@
   
   <url>
     <loc>https://blog.sahilister.tech/</loc>
-    <lastmod>2020-08-11T18:56:23+05:30</lastmod>
+    <lastmod>2020-08-19T01:22:38+05:30</lastmod>
     <priority>0</priority>
   </url>
   

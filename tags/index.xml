@@ -131,7 +131,7 @@
     <item>
       <title>Privacy</title>
       <link>https://blog.sahilister.tech/tags/privacy/</link>
-      <pubDate>Tue, 11 Aug 2020 18:56:23 +0530</pubDate>
+      <pubDate>Wed, 19 Aug 2020 01:22:38 +0530</pubDate>
       
       <guid>https://blog.sahilister.tech/tags/privacy/</guid>
       <description></description>
@@ -147,11 +147,29 @@
     </item>
     
     <item>
+      <title>Searx</title>
+      <link>https://blog.sahilister.tech/tags/searx/</link>
+      <pubDate>Wed, 19 Aug 2020 01:22:38 +0530</pubDate>
+      
+      <guid>https://blog.sahilister.tech/tags/searx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Security</title>
       <link>https://blog.sahilister.tech/tags/security/</link>
       <pubDate>Wed, 05 Aug 2020 02:39:08 +0530</pubDate>
       
       <guid>https://blog.sahilister.tech/tags/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selfhosting</title>
+      <link>https://blog.sahilister.tech/tags/selfhosting/</link>
+      <pubDate>Wed, 19 Aug 2020 01:22:38 +0530</pubDate>
+      
+      <guid>https://blog.sahilister.tech/tags/selfhosting/</guid>
       <description></description>
     </item>
     

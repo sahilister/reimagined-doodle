@@ -44,55 +44,55 @@ gp  </code></pre></div>
 
 <h3 id="for-gnu-linux-bash">For GNU/Linux (bash)</h3>
 
-<ol>
+<ul>
 <li>Add <code>.bash_aliases</code> in <code>~</code> (<code>/home/USER_NAME</code>)</li>
-</ol>
+</ul>
 <div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash">$ touch ~/.bash_aliases</code></pre></div>
-<ol>
+<ul>
 <li>Open the file using editor and add</li>
-</ol>
+</ul>
 <div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash"><span class="nb">alias</span> <span class="nv">gc</span><span class="o">=</span><span class="s1">&#39;git add . &amp;&amp; git commit -m &#39;</span>
 <span class="nb">alias</span> <span class="nv">gp</span><span class="o">=</span><span class="s1">&#39;git push&#39;</span></code></pre></div>
 <p><em>Bear in mind, no spaces between the alias target and alias input commands and single quotes only.</em></p>
 
-<ol>
+<ul>
 <li>In terminal</li>
-</ol>
+</ul>
 <div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash">$ <span class="nb">source</span> ~/.bash_aliases</code></pre></div>
-<ol>
+<ul>
 <li>Restart terminal.</li>
-</ol>
+</ul>
 
 <h3 id="for-windows-git-bash">For Windows (Git Bash)</h3>
 
-<ol>
+<ul>
 <li><p>Run git bash in administrator mode.</p></li>
 
 <li><p>Navigate to <code>C:\Program Files\Git\etc\profile.d</code> .</p></li>
-</ol>
+</ul>
 <div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash"> <span class="nb">cd</span> ../../Program<span class="se">\ </span>Files/Git/etc/profile.d/</code></pre></div>
-<ol>
+<ul>
 <li>Open <code>aliases.sh</code> using nano</li>
-</ol>
+</ul>
 <div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash">nano aliases.sh</code></pre></div>
-<ol>
+<ul>
 <li>Add following in the end:</li>
-</ol>
+</ul>
 <div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash"><span class="c1"># CUSTOM ALIASES</span>
 
 <span class="nb">alias</span> <span class="nv">gc</span><span class="o">=</span><span class="s1">&#39;git add . &amp;&amp; git commit -m&#39;</span>
 <span class="nb">alias</span> <span class="nv">gp</span><span class="o">=</span><span class="s1">&#39;git push&#39;</span></code></pre></div>
 <p><em>Bear in mind, no spaces between the alias target and alias input commands and single quotes only.</em></p>
 
-<ol>
+<ul>
 <li>For saving and exiting nano</li>
-</ol>
+</ul>
 <div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash">CTRL+O 
 <span class="c1"># PRESS ENTER</span>
 CTRL+X </code></pre></div>
-<ol>
+<ul>
 <li>Restart terminal.</li>
-</ol>
+</ul>
 
 <h2 id="use-cases">Use Cases</h2>
 
@@ -102,7 +102,7 @@ CTRL+X </code></pre></div>
 <span class="nb">alias</span> <span class="nv">gc</span><span class="o">=</span><span class="s1">&#39;git add . &amp;&amp; git commit - &#39;</span>
 <span class="nb">alias</span> <span class="nv">gp</span><span class="o">=</span><span class="s1">&#39;git push&#39;</span>
 <span class="nb">alias</span> <span class="nv">gr</span><span class="o">=</span><span class="s1">&#39;git restore --staged&#39;</span></code></pre></div>
-<p>My bash aliases can be found <a href="https://github.com/sahilister/dotfiles/blob/master/.bash_aliases">here</a>.</p>
+<p>My bash aliases can be found <a href="https://github.com/sahilister/dotfiles/">here</a>.</p>
 </article>
 
         </main><footer id="footer">

@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="thoughts and ramblings">
+    
+    <link rel="shortcut icon" href="https://blog.sahilister.tech/favicon.ico">
+    
+    <link rel="stylesheet" href="/css/style.min.css">
+     <a rel="me" href="https://fosstodon.org/@sahilister"></a>
+    <title>How I Installed Searx Using Yunohost</title>
+</head>
+<body><header id="banner">
+    <h2><a href="https://blog.sahilister.tech/">sahilister&#39;s Reimagined Doodle</a></h2>
+    <nav>
+        <ul>
+            
+            <li>
+                <a href="/about/" title="about">about</a>
+            </li>
+            
+        </ul>
+    </nav>
+</header>
+<main id="content">
+<article>
+    <header id="post-header">
+        <h1>How I Installed Searx Using Yunohost</h1><time>August 19, 2020</time></header>
+
+<p>I had an AWS account which offers 12 months of Amazon EC2 with 750 hours/month free on initial sign up. It&rsquo;s called free tier by Amazon and offers a t2.micro instance having 1vCPU, 1 GB RAM and 30 GB of storage. I would fire up an instance now and then for trying out various services and just play around with it.</p>
+
+<p>I found about <a href="https://yunohost.org/">YunoHost</a> while trying to install Matrix homeserver (Synapse). I was trying it through an <a href="https://github.com/spantaleev/matrix-docker-ansible-deploy">ansible playbook</a> but failed to ssh into my instance using the playbook. I tried installing Synapse using YunoHost which too failed but I discovered various <a href="https://yunohost.org/#/apps">applications</a> that can be installed on YunoHost.YunoHost installs on your Debian instance and give you a web interface to handle/install services. They explain it well <a href="https://yunohost.org/#/whatsyunohost">here</a>.You can try them on their website <a href="https://yunohost.org/#/try">here</a>. So amongst the list I was interested in Nextcloud and Searx. I dropped Nextcloud due to hardware limitations. I installed Searx and it&rsquo;s been my daily driver ever since. It works well and returns results in under 1.5 sec on best cases and under 5 sec in worst cases scenarios. The average first load time is 2.4 sec and average full load time is 3.4 sec for my personal instance. Not relaying on external search provider due to privacy concern does feel good (though Searx is a meta-search engine, but you know what I mean).</p>
+
+<p>Lets me tell you how I installed it.</p>
+
+<h3 id="basic-requirements">Basic Requirements</h3>
+
+<ol>
+<li>A server with root access.</li>
+<li>Public IP for the server.</li>
+<li>Debian 10 Buster.</li>
+<li>(Optional) A domain. YunoHost provides <em>.nohost.me</em>, <em>.noho.st</em> or <em>.ynh.fr</em> subdomains if you don&rsquo;t have or want to use a personal one.</li>
+</ol>
+
+<h3 id="table-of-content">Table of Content</h3>
+
+<p>The installation process is divided into 5 step:</p>
+
+<ol>
+<li><a href="#launch-and-configure-instance">Launch and configure instance</a></li>
+<li><a href="#install-yunohost">Install YunoHost</a></li>
+<li><a href="#configure-dns">Configure DNS</a></li>
+<li><a href="#configure-yunohost">Configure YunoHost</a></li>
+<li><a href="#install-searx">Install Searx</a></li>
+</ol>
+
+<h3 id="installation">Installation</h3>
+
+<h4 id="launch-and-configure-instance">Launch and configure instance</h4>
+
+<ul>
+<li>Launch instance with Debian 10 Buster (YunoHost is based on Debian and won&rsquo;t work on other distros).</li>
+<li>Update the system<br /></li>
+</ul>
+<div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash">sudo apt update <span class="o">&amp;&amp;</span> sudo apt upgrade -y</code></pre></div>
+<ul>
+<li>Check port forwarding and allow inbound traffic on port 80 (TCP, HTTP), 443 (TCP, HTTPS) and port 22 for SSH.</li>
+<li>Note you&rsquo;re public IP.</li>
+</ul>
+
+<h4 id="install-yunohost">Install YunoHost</h4>
+
+<ul>
+<li>Install YunoHost using following command</li>
+</ul>
+<div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash">curl https://install.yunohost.org <span class="p">|</span> sudo bash</code></pre></div>
+<ul>
+<li>On prompts, allow.</li>
+</ul>
+
+<h4 id="configure-dns">Configure DNS</h4>
+
+<ul>
+<li>Get a dedicated domain (<em>example.com</em>) or subdomain (<em>subdomain.example.com</em>). If not available follow <a href="https://yunohost.org/#/dns_nohost_me">this</a> to get YunoHost provided domains.</li>
+<li>In you&rsquo;re DNS panel, add a <code>A record</code> with Hostname = <em>example.com</em>, Destination IP = <em>11.22.33.44</em> (server public IP) and for TTL, YunoHost recommends <em>3600</em> but some DNS providers don&rsquo;t allow that, so choose the minimum your provider allows.</li>
+<li>Basic DNS configuration ends here. If you plan on to add mail and xmpp servers, look for their DNS configuration <a href="https://yunohost.org/#/dns_config">here</a> (only the bold part).</li>
+</ul>
+
+<p><em>Note — Before proceeding further, wait for 10-15 min for DNS update to propagate, then check by using the <code>dig</code> command.</em></p>
+
+<h4 id="configure-yunohost">Configure YunoHost</h4>
+
+<ul>
+<li>Visit <em>example.com/yunohost/admin</em>. It will throw certificate issues, accept and proceed (we&rsquo;ll install certificate in the following steps).</li>
+<li>Next follow the screen instructions and choose a strong password. This URL and password would be used to enter the admin panel of the server.</li>
+<li>Next click on <code>Domains</code> -&gt; <code>example.com</code> -&gt; <code>Let's Encrypt</code> to get a SSL certificate for the domain.</li>
+</ul>
+
+<h4 id="install-searx">Install Searx</h4>
+
+<ul>
+<li>Click <code>Applications</code> -&gt; <code>Install</code> -&gt; <code>Small Utilities</code> -&gt; <code>Searx</code>-&gt; <code>Install</code>.</li>
+<li>Configure the default URLs or add a special one using above Configure DNS section above and add that through <code>Domains</code> -&gt; <code>Add domain</code>.</li>
+<li>Enjoy your own privacy respecting search engine.</li>
+</ul>
+
+<p><em>Notes — If you want the Searx for your own usage, change permissions in Users section.</em></p>
+
+<p>Complete documentation and forum links can be found <a href="https://yunohost.org/#/docs">here</a>.</p>
+</article>
+
+        </main><footer id="footer">
+    <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0; 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  " src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />
+  <div style="text-align: center">All content licensed under <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> license unless otherwise stated. </div>
+  <br /> 
+  <i><div style="text-align: center">Copyright © </i> 2020  Sahil Dhiman. </div>
+</footer>
+
+
+
+
+</body>
+</html>

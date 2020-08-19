@@ -27,13 +27,13 @@ Implementation of `alias` command can be found in [usage](#usage) section. Some 
 ## Usage
 ### For GNU/Linux (bash)
 
-1. Add `.bash_aliases` in `~` (`/home/USER_NAME`) 
+- Add `.bash_aliases` in `~` (`/home/USER_NAME`) 
 
 ```bash
 $ touch ~/.bash_aliases
 ```
 
-2. Open the file using editor and add
+- Open the file using editor and add
 
 ```bash
 alias gc='git add . && git commit -m '
@@ -41,31 +41,31 @@ alias gp='git push'
 ```
 _Bear in mind, no spaces between the alias target and alias input commands and single quotes only._
 
-3. In terminal 
+- In terminal 
 
 ```bash
 $ source ~/.bash_aliases
 ```
-4. Restart terminal.
+- Restart terminal.
 
 
 ### For Windows (Git Bash)
 
-1. Run git bash in administrator mode.
+- Run git bash in administrator mode.
 
-2. Navigate to `C:\Program Files\Git\etc\profile.d` .
+- Navigate to `C:\Program Files\Git\etc\profile.d` .
 
 ```bash
  cd ../../Program\ Files/Git/etc/profile.d/
 ```
 
-3. Open `aliases.sh` using nano 
+- Open `aliases.sh` using nano 
 
 ```bash
 nano aliases.sh
 ```
 
-4. Add following in the end:
+- Add following in the end:
 
 ```bash
 # CUSTOM ALIASES
@@ -75,14 +75,14 @@ alias gp='git push'
 ```
 _Bear in mind, no spaces between the alias target and alias input commands and single quotes only._
 
-5. For saving and exiting nano
+- For saving and exiting nano
 
 ```bash
 CTRL+O 
 # PRESS ENTER
 CTRL+X 
 ```
-6. Restart terminal.
+- Restart terminal.
 
 ## Use Cases
 
@@ -96,7 +96,7 @@ alias gp='git push'
 alias gr='git restore --staged'
 ```
 
-My bash aliases can be found [here](https://github.com/sahilister/dotfiles/blob/master/.bash_aliases).
+My bash aliases can be found [here](https://github.com/sahilister/dotfiles/).
 
 
 
