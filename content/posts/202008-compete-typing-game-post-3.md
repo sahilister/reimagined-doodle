@@ -1,11 +1,11 @@
 ---
-title: "compete - Typing Game, Post 2"
-date: 2020-08-09T01:09:38+05:30
+title: "compete - Typing Game, Post 3"
+date: 2020-08-21T01:09:38+05:30
 tags: ["project", "compete", "typing", "game", "interlink"]
 ---
 
  _[Github repository](https://github.com/sahilister/compete)_, 
- _[Previous](/2020/07/compete-typing-game-post-1/) and [Next](/2020/08/compete-typing-game-post-3/) post in the series_.	
+ _[Previous](/2020/08/compete-typing-game-post-2/) post in the series_.	
 
 
 ## Table of Content
@@ -55,13 +55,9 @@ tags: ["project", "compete", "typing", "game", "interlink"]
 
 ### Thoughts and Learnings
 
- I slacked off the previous ten days without any activity related to web development. Though is 
-recently tried [YUNO HOST](https://yunohost.org/#/) on my ec2 adding NextCloud, Element and 
-trying to make my Matrix server work. I plan on to add [Searx](https://asciimoo.github.io/searx/) too but almost every time the ec2 
-goes inaccessible maybe due to its same size (1 GB RAM with 8 GB storage and I guess 1 core).
+ I slacked off, again without much progress. Though got a jitsi instance and a searx instance throught yunohost. Searx is been used as the daily driver, nice.
 
-Will try viewing Brad Traversy's tutorials and try implementing the base keyboard recognition 
-until the next post date.
+Let's hope the next post, which would be almost a month from the day I started has something to write in the changelog, though I doubt that too as DebConf20 is starting this weekend and will go on for a week + some sessional exams too.
 
 ### Changelog
 
