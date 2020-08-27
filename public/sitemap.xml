@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.sahilister.tech/2020/08/dont-take-life-so-seriously/</loc>
+    <lastmod>2020-08-28T01:12:11+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.sahilister.tech/2020/08/compete-typing-game-post-3/</loc>
     <lastmod>2020-08-21T01:09:38+05:30</lastmod>
   </url>
@@ -116,13 +121,19 @@
   
   <url>
     <loc>https://blog.sahilister.tech/tags/interlink/</loc>
-    <lastmod>2020-08-21T01:09:38+05:30</lastmod>
+    <lastmod>2020-08-28T01:12:11+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.sahilister.tech/tags/invidious/</loc>
     <lastmod>2020-08-11T18:56:23+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sahilister.tech/tags/life/</loc>
+    <lastmod>2020-08-28T01:12:11+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -146,7 +157,7 @@
   
   <url>
     <loc>https://blog.sahilister.tech/posts/</loc>
-    <lastmod>2020-08-21T01:09:38+05:30</lastmod>
+    <lastmod>2020-08-28T01:12:11+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -159,6 +170,12 @@
   <url>
     <loc>https://blog.sahilister.tech/tags/project/</loc>
     <lastmod>2020-08-21T01:09:38+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sahilister.tech/tags/quote/</loc>
+    <lastmod>2020-08-28T01:12:11+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -212,7 +229,7 @@
   
   <url>
     <loc>https://blog.sahilister.tech/</loc>
-    <lastmod>2020-08-21T01:09:38+05:30</lastmod>
+    <lastmod>2020-08-28T01:12:11+05:30</lastmod>
     <priority>0</priority>
   </url>
   
