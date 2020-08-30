@@ -6,10 +6,21 @@
     <description>Recent content on sahilister&#39;s Reimagined Doodle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Aug 2020 01:12:11 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2020 03:25:45 +0530</lastBuildDate>
     
 	<atom:link href="https://blog.sahilister.tech/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My Setup - August 2020 Edition</title>
+      <link>https://blog.sahilister.tech/2020/08/my-setup-august-2020-edition/</link>
+      <pubDate>Sat, 29 Aug 2020 03:25:45 +0530</pubDate>
+      
+      <guid>https://blog.sahilister.tech/2020/08/my-setup-august-2020-edition/</guid>
+      <description>This post is inspired by Luke Smith&amp;rsquo;s blog post, &amp;ldquo;Programs and Equipment I User&amp;rdquo;. It&amp;rsquo;s been a few months since I started making choices rather than going with what comes by default.
+I plan on to write this blog every six months starting now, so a post every august and march for the foreseeable future. This will serve as my setup timeline.
+Software I Use  Operating System / Distributions - I use Debian 10 Buster(stable) as of now.</description>
+    </item>
     
     <item>
       <title>Don&#39;t Take Life So Seriously</title>
