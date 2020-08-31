@@ -1,11 +1,11 @@
 ---
-title: "compete - Typing Game, Post 3"
-date: 2020-08-21T01:09:38+05:30
+title: "compete - Typing Game, Post 4"
+date: 2020-08-31T01:09:38+05:30
 tags: ["project", "compete", "typing", "game", "interlink"]
 ---
 
  _[Github repository](https://github.com/sahilister/compete)_, 
- _[Previous](/2020/08/compete-typing-game-post-2/) and [Next](/2020/08/compete-typing-game-post-4/) post in the series_.	
+ _[Previous](/2020/08/compete-typing-game-post-3/) post in the series_.	
 
 
 ## Table of Content
@@ -55,9 +55,8 @@ tags: ["project", "compete", "typing", "game", "interlink"]
 
 ### Thoughts and Learnings
 
- I slacked off, again without much progress. Though got a jitsi instance and a searx instance throught yunohost. Searx is been used as the daily driver, nice.
+Wasn't expecting anything to happen anyhow, DebConf20 week. Volunteered for video team there and meet a bunch of awesome folks from around the world. The September 28th deadline is here and I don't have any update yet. Let's see what comes in the next update.
 
-Let's hope the next post, which would be almost a month from the day I started has something to write in the changelog, though I doubt that too as DebConf20 is starting this weekend and will go on for a week + some sessional exams too.
 
 ### Changelog
 
