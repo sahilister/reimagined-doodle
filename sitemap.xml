@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.sahilister.tech/2020/09/experience-attending-debconf20/</loc>
+    <lastmod>2020-09-07T20:48:29+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.sahilister.tech/2020/08/compete-typing-game-post-4/</loc>
     <lastmod>2020-08-31T01:09:38+05:30</lastmod>
   </url>
@@ -106,6 +111,24 @@
   </url>
   
   <url>
+    <loc>https://blog.sahilister.tech/tags/conference/</loc>
+    <lastmod>2020-09-07T20:48:29+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sahilister.tech/tags/debconf/</loc>
+    <lastmod>2020-09-07T20:48:29+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.sahilister.tech/tags/debconf20/</loc>
+    <lastmod>2020-09-07T20:48:29+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.sahilister.tech/tags/duckduckgo/</loc>
     <lastmod>2020-07-14T17:36:32+05:30</lastmod>
     <priority>0</priority>
@@ -113,7 +136,7 @@
   
   <url>
     <loc>https://blog.sahilister.tech/tags/experience/</loc>
-    <lastmod>2020-08-05T02:39:08+05:30</lastmod>
+    <lastmod>2020-09-07T20:48:29+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -167,7 +190,7 @@
   
   <url>
     <loc>https://blog.sahilister.tech/posts/</loc>
-    <lastmod>2020-08-31T01:09:38+05:30</lastmod>
+    <lastmod>2020-09-07T20:48:29+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -238,6 +261,12 @@
   </url>
   
   <url>
+    <loc>https://blog.sahilister.tech/tags/volunteering/</loc>
+    <lastmod>2020-09-07T20:48:29+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.sahilister.tech/tags/youtube/</loc>
     <lastmod>2020-08-11T18:56:23+05:30</lastmod>
     <priority>0</priority>
@@ -245,7 +274,7 @@
   
   <url>
     <loc>https://blog.sahilister.tech/</loc>
-    <lastmod>2020-08-31T01:09:38+05:30</lastmod>
+    <lastmod>2020-09-07T20:48:29+05:30</lastmod>
     <priority>0</priority>
   </url>
   

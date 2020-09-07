@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conference on sahilister&#39;s Reimagined Doodle</title>
+    <link>https://blog.sahilister.tech/tags/conference/</link>
+    <description>Recent content in Conference on sahilister&#39;s Reimagined Doodle</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Sep 2020 20:48:29 +0530</lastBuildDate>
+    
+	<atom:link href="https://blog.sahilister.tech/tags/conference/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Experience Attending DebConf20</title>
+      <link>https://blog.sahilister.tech/2020/09/experience-attending-debconf20/</link>
+      <pubDate>Mon, 07 Sep 2020 20:48:29 +0530</pubDate>
+      
+      <guid>https://blog.sahilister.tech/2020/09/experience-attending-debconf20/</guid>
+      <description>The 21st edition of DebConf, DebConf20 came to end on August 29th (August 30th where I live). It officially started on August 23rd. It was my first DebConf since I started with Debian. I was looking into DebConf this year when it was scheduled for Haifa, Israel which eventually moved online due to pandemic.
+I registered as soon as they opened and was surprised to find a free tier (still a student, will take paid tier as soon as I get capable :) ).</description>
+    </item>
+    
+  </channel>
+</rss>
