@@ -6,10 +6,23 @@
     <description>Recent content in Project on sahilister&#39;s Reimagined Doodle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Aug 2020 01:09:38 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2020 01:09:38 +0530</lastBuildDate>
     
 	<atom:link href="https://blog.sahilister.tech/tags/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>compete - Typing Game, Post 5</title>
+      <link>https://blog.sahilister.tech/2020/09/compete-typing-game-post-5/</link>
+      <pubDate>Wed, 09 Sep 2020 01:09:38 +0530</pubDate>
+      
+      <guid>https://blog.sahilister.tech/2020/09/compete-typing-game-post-5/</guid>
+      <description>Github repository, Previous post in the series.
+Table of Content  Detailed Checklist Thoughts and Learnings Changelog  Detailed Checklist [ ] Local setup
+Keyboard character recognition Error recognition and highlighting
+ Points system Text from Wikipedia API, random page Add variable timers  [ ] Multiplayer mode
+Room creation using socket.io Implement local setup for each user Sync Wikipedia article Implement start and timer Sync timer Leaderboard  [ ] UI/UX redesign</description>
+    </item>
     
     <item>
       <title>compete - Typing Game, Post 4</title>
@@ -17,7 +30,7 @@
       <pubDate>Mon, 31 Aug 2020 01:09:38 +0530</pubDate>
       
       <guid>https://blog.sahilister.tech/2020/08/compete-typing-game-post-4/</guid>
-      <description>Github repository, Previous post in the series.
+      <description>Github repository, Previous and Next post in the series.
 Table of Content  Detailed Checklist Thoughts and Learnings Changelog  Detailed Checklist [ ] Local setup
 Keyboard character recognition Error recognition and highlighting
  Points system Text from Wikipedia API, random page Add variable timers  [ ] Multiplayer mode
