@@ -5,7 +5,7 @@ tags: ["project", "compete", "typing", "game", "interlink"]
 ---
 
  _[Github repository](https://github.com/sahilister/compete)_, 
- _[Previous](/2020/08/compete-typing-game-post-3/) and [Next](/2020/08/compete-typing-game-post-5/) post in the series_.	
+ _[Previous](/2020/08/compete-typing-game-post-3/) and [Next](/2020/09/compete-typing-game-post-5/) post in the series_.	
 
 
 ## Table of Content
