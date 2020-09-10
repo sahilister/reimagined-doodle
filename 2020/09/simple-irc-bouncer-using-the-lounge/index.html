@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="thoughts and ramblings">
+    
+    <link rel="shortcut icon" href="https://blog.sahilister.tech/favicon.ico">
+    
+    <link rel="stylesheet" href="/css/style.min.css">
+     <a rel="me" href="https://fosstodon.org/@sahilister"></a>
+    <title>Simple IRC Bouncer using The Lounge</title>
+</head>
+<body><header id="banner">
+    <h2><a href="https://blog.sahilister.tech/">sahilister&#39;s Reimagined Doodle</a></h2>
+    <nav>
+        <ul>
+            
+            <li>
+                <a href="/about/" title="about">about</a>
+            </li>
+            
+        </ul>
+    </nav>
+</header>
+<main id="content">
+<article>
+    <header id="post-header">
+        <h1>Simple IRC Bouncer using The Lounge</h1><time>September 11, 2020</time></header>
+
+<p>I use matrix services to communicate online and to bridge into IRC channels. So the other day, <a href="https://en.wikipedia.org/wiki/Element_(software)">Element</a> was giving some trouble, and I was into a long conversation with someone on IRC. To access IRC, I found <a href="https://thelounge.chat/">&ldquo;The Lounge&rdquo;</a> in my Yunohost instance directory. <a href="https://yunohost.org/#/">Yunohost</a> is a Debian distribution one can say, which provides a Web GUI to manage and install application with a few clicks doing the heavy work for you with less to non server knowhow.</p>
+
+<p>Coming back to IRC bouncer, this aforementioned steps can help you setup a free IRC bouncer (through <a href="https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&amp;all-free-tier.sort-order=asc">AWS EC2 free tier</a>). You can simply login into a web interface to access IRC. There not much to do other than getting YunoHost up and this can be completed in about 30-40 minutes.</p>
+
+<h3 id="installation">Installation</h3>
+
+<h4 id="install-and-configure-yunohost">Install and configure Yunohost</h4>
+
+<ul>
+<li>Follow steps 1-4 as mentioned in table of content <a href="/2020/08/how-i-installed-searx-using-yunohost/">here</a>. It links to my other post about Searx on Yunohost, so just referenced the same steps.
+Otherwise, follow the official installation guide <a href="https://yunohost.org/#/install_on_vps">here</a>.</li>
+</ul>
+
+<h4 id="install-the-lounge">Install The Lounge</h4>
+
+<ul>
+<li>On Yunohost web interface, do <code>Application</code> -&gt; <code>Install</code> -&gt; <code>Communication</code> -&gt; <code>The Lounge</code> -&gt; <code>Install</code>.</li>
+</ul>
+
+<h3 id="usage">Usage</h3>
+
+<ul>
+<li>Add default user for Yunohost if not already done from <code>Users</code> menu on interface.</li>
+<li>Open &ldquo;The Lounge&rdquo; URL from <code>Application</code> section and login with default user created above.</li>
+<li>Login with your IRC credentials and start chatting.</li>
+</ul>
+
+<p><em>PS: The Lounge can be installed on Heroku also I believe but Heroku instances (free tier) go on sleep on 5 minutes of inactivity, so persistence can suffer. Feel free to correct me by firing a mail :) .</em></p>
+
+<p><em>PSS: Other ways to install The Lounge can be found <a href="https://thelounge.chat/docs/install-and-upgrade">here</a>.</em></p>
+</article>
+
+        </main><footer id="footer">
+    <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0; 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  " src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />
+  <div style="text-align: center">All content licensed under <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> license unless otherwise stated. </div>
+  <br /> 
+  <i><div style="text-align: center">Copyright © </i> 2020  Sahil Dhiman. </div>
+</footer>
+
+
+
+
+</body>
+</html>
