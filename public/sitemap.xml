@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.sahilister.tech/2020/09/learnings-and-findings-during-the-pandemic/</loc>
+    <lastmod>2020-09-25T05:01:19+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.sahilister.tech/2020/09/simple-irc-bouncer-using-the-lounge/</loc>
     <lastmod>2020-09-11T03:16:28+05:30</lastmod>
   </url>
@@ -211,6 +216,12 @@
   </url>
   
   <url>
+    <loc>https://blog.sahilister.tech/tags/pandemic-learnings/</loc>
+    <lastmod>2020-09-25T05:01:19+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.sahilister.tech/tags/poem/</loc>
     <lastmod>2020-07-23T01:32:55+05:30</lastmod>
     <priority>0</priority>
@@ -218,7 +229,7 @@
   
   <url>
     <loc>https://blog.sahilister.tech/posts/</loc>
-    <lastmod>2020-09-11T03:16:28+05:30</lastmod>
+    <lastmod>2020-09-25T05:01:19+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -308,7 +319,7 @@
   
   <url>
     <loc>https://blog.sahilister.tech/</loc>
-    <lastmod>2020-09-11T03:16:28+05:30</lastmod>
+    <lastmod>2020-09-25T05:01:19+05:30</lastmod>
     <priority>0</priority>
   </url>
   
